@@ -1,2 +1,6 @@
-# hello-world
-learn github and git
+ a bit about yourself.
+Write a commit message that describes  a bit about yourself.
+Write a commit message that describes  a bit about yourself.
+Write a commit message that describes  a bit about yourself.
+Write a commit message that describes  a bit about yourself.
+Write a commit message that describes 
